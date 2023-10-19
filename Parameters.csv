@@ -1,0 +1,11 @@
+ ABDim=   100.00000000000000     
+  number of measuring electrodes kol in AB and kol1          41         160
+  MN=   5.0000000000000003E-002
+ max inclination angle in grad,beta=   15.000000000000000     
+ damba width=   50.000000000000000     
+ xA   40.131849874761059      Aposition   40.885725984366807      AW   2.4521940437412756E-315 A distance   9.9999999999999982     
+ height of the water on the right   6.9519347939773507E-310
+ N=        4100 N1=        4920 N2=        4920 Model=           1 Nk,Ny=        2048        6144 ymax   16.000000000000000      kmax   20.000000000000000     
+ total number of points Nnodes=        9840 N4,N5,N6           0           0           0 nks=         100
+ ro1,ro3 - damb,base:   10.000000000000000        10.000000000000000     
+ DimLess positions of A   0.80263699749522122       -2.8797108394356744E-002
